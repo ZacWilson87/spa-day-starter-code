@@ -2,12 +2,18 @@ body {
     background-color: pink;
 }
 
+.clientMenu{
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
 div {
     margin: auto;
     width: 50%;
     padding: 10px;
     text-align: center;
     background-color: white;
+
 }
 
 h1 {
